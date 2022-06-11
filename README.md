@@ -1,1 +1,1 @@
-# jenkins-multibranch
+# multibranch-build
